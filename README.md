@@ -1,4 +1,4 @@
-# ESPInstaller
+# ESP32Installer
 
 This project aim to provide an easy way to install any other project on your ESP32 without the hassle to install dependencies, tools etc etc.
 It simply provides a webinterface from where you can download and install projects.
