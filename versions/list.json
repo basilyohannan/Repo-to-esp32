@@ -10,6 +10,13 @@
     "build": 1,
     "current": false,
     "partitionScheme":"min_spiffs",
+    "description": "partial work",
+    "compatibility": []
+},{
+    "version": 0.1,
+    "build": 1,
+    "current": false,
+    "partitionScheme":"min_spiffs",
     "description": "Initial work",
     "compatibility": []
 }]
