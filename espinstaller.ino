@@ -14,7 +14,7 @@ const char *dns = "esp-installer";
 
 ServerHandler *serverhandler;
 WiFiClientSecure client;
-const char *repoPath = "https://raw.githubusercontent.com/RomeHein/ESPInstaller/master/list.json";
+const char *repoPath = "https://raw.githubusercontent.com/basilyohannan/Repo-to-esp32/master/list.json";
 
 void getRepoList()
 {
@@ -148,7 +148,7 @@ void setup(void)
   }
   Serial.println(WiFi.localIP());
 
-  //See discussion: https://github.com/RomeHein/ESPInstaller/issues/2
+  //See discussion: https://github.com/basilyohannan/Repo-to-esp32/issues/2
   client.setInsecure();
 
   // Set server handler.
