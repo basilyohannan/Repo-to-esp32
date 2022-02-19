@@ -5,8 +5,8 @@
         "repoRawPath": "https://raw.githubusercontent.com/RomeHein/ESPecial/master/versions/"
     },
     {
-        "name": "ESPInstaller",
+        "name": "Repo-to-esp32",
         "description": "A simple webserver to allow easy installation of other project directly from their repo",
-        "repoRawPath": "https://raw.githubusercontent.com/RomeHein/ESPInstaller/master/versions/"
+        "repoRawPath": "https://raw.githubusercontent.com/basilyohannan/Repo-to-esp32/master/versions/"
     }
 ]
