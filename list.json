@@ -6,7 +6,7 @@
     },
     {
         "name": "Repo-to-esp32",
-        "description": "A simple webserver to allow easy installation of other project directly from their repo",
+        "description": "A simple webserver to allow easy installation of other project directly from github repo",
         "repoRawPath": "https://raw.githubusercontent.com/basilyohannan/Repo-to-esp32/master/versions/"
     }
 ]
